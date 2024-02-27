@@ -12,7 +12,7 @@ La distribucion del respositorio es la siguiente:
          EDA: eda.py
          cluster: clus.py
          model: compare_models.py, cv_params.py
-         report: report.ipynb, report.pdf
+         report: report.ipynb, report.pdf (currently only available in Spanish; an English version will be provided later)
    
 4. outcomes: contains various folders, charts, HTML files, and .csv files that display all the results for a more detailed analysis of the data and the models than in the report.
 
