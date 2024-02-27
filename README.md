@@ -15,7 +15,7 @@ La distribucion del respositorio es la siguiente:
    
     report: report.ipynb, report.pdf
    
-5. outcomes: contiene varias carpetas, graficos, archivos HTML y .csv que muestran resultados para hacer un analisis mas destallado de la data y los modelos que en el reporte.
+5. outcomes: contiene varias carpetas, graficos, archivos HTML y .csv que muestran todos los resultados para hacer un analisis mas destallado de la data y los modelos que en el reporte.
 
 
 
