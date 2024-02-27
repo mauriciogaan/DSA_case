@@ -3,19 +3,18 @@ This repository presents the development, analysis and conclusions of a *Data Sc
 
 La distribucion del respositorio es la siguiente:
 
-1. data: contiene la base de datos
-2. intermediates: contiene archivos intermedios que sirven como inputs o referencia entre distintos tasks
-3. tasks: este se divide en 4 a su vez y cada folder contiene los scripts de python necesarios para obtener los distintos outcomes:
+1. data: contains the database
+
+2. intermediates: contains intermediate files that serve as inputs or references between different tasks
+
+3. tasks: this is further divided into 4, and each folder contains the Python scripts necessary to obtain the various outcomes:
+
+         EDA: eda.py
+         cluster: clus.py
+         model: compare_models.py, cv_params.py
+         report: report.ipynb, report.pdf
    
-    EDA: eda.py
-   
-    cluster: clus.py
-   
-    model: compare_models.py, cv_params.py
-   
-    report: report.ipynb, report.pdf
-   
-5. outcomes: contiene varias carpetas, graficos, archivos HTML y .csv que muestran todos los resultados para hacer un analisis mas destallado de la data y los modelos que en el reporte.
+4. outcomes: contains various folders, charts, HTML files, and .csv files that display all the results for a more detailed analysis of the data and the models than in the report.
 
 
 
