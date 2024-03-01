@@ -4,11 +4,11 @@ This repository presents the development, analysis, and conclusions of a *Data S
 
 ## Case Development
 
-### [1. Exploratory Data Analysis (EDA)](./tasks/EDA)
+### [1. Exploratory Data Analysis (EDA)](just_bcase/tasks/EDA)
 
 Conducting an Exploratory Data Analysis to understand the features and relationships within the dataset.
 
-### [2. Building Predictive Models](./tasks/model)
+### [2. Building Predictive Models](justo_bcase/tasks/model)
 
 Developing models to predict relevant metrics, evaluating their performance using specific metrics.
 
