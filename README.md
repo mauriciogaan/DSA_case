@@ -34,7 +34,7 @@ The distribution of the repository is as follows:
 
 - [data](justo_bcase/data): Contains the database.
 
-- [intermediates](./intermediates): Contains intermediate files that serve as inputs or references between different tasks.
+- [intermediates](justo_bcase/intermediates): Contains intermediate files that serve as inputs or references between different tasks.
 
 - [tasks](justo_bcase/tasks): Subdivided into four distinct sections, each directory houses the requisite Python scripts designed to generate specific outcomes:
     - [EDA](justo_bcase/tasks/EDA): `eda.py`
