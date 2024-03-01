@@ -16,5 +16,5 @@ The distribution of the repository is as follows:
    
 5. outcomes: contains various folders, charts, HTML files, and .csv files that display all the results for a more detailed analysis of the data and the models than in the report.
 
-
+(Please note that this repo is still in progress, so it may be some small typos/mistakes all around the project)
 
