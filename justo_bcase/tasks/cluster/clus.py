@@ -75,7 +75,7 @@ plt.show()
 
 
 # Fit MiniBatchKMeans for efficient clustering
-kmeans = MiniBatchKMeans(n_clusters=6, random_state=0, batch_size=10)
+kmeans = MiniBatchKMeans(n_clusters=6, random_state=42, batch_size=10)
 y_pred = kmeans.fit_predict(df_k_encoded)
 
 # Add a cluster column
