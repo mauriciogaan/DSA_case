@@ -25,7 +25,7 @@ Using unsupervised learning techniques to uncover hidden insights in unlabeled d
 
 **Note 1:** While this report contains relevant information and key conclusions, the folders within this repository contain all outcomes, intermediates, code, and relevant files for a more detailed analysis. Reviewing these supplementary materials is recommended for a deeper understanding of the project.
 
-**Note 2:** For interactive files like EDA-Profiling and 2D/3D Scatter... it might not be possible to view them on GitHub or PDF, so it is recommended to download the HTML files located in `outcomes/EDA` and `outcomes/model` respectively to open them in a browser.
+**Note 2:** For interactive files like EDA-Profiling and 2D/3D Scatter... it might not be possible to view them on GitHub or PDF, so it is recommended to download the HTML files located in `outcomes/EDA` and `outcomes/cluster` respectively to open them in a browser.
 
 ## Repository Distribution
 
